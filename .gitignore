@@ -1,0 +1,9 @@
+# Streamlit agent skills (environment-specific symlinks)
+.agents/skills/developing-with-streamlit
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local Streamlit secrets
+.streamlit/secrets.toml
